@@ -8,6 +8,7 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         Debug.Log("Hello, World!");
+        Debug.Log("Liuxiang提交了一个更改");
     }
 
     // Update is called once per frame
